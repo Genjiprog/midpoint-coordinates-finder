@@ -25,7 +25,7 @@ The Midpoint Coordinates Finder is a simple Python script designed to help calcu
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/midpoint-coordinates-finder.git
+   git clone https://github.com/Genjiprog/midpoint-coordinates-finder.git
 
 
 2. **Navigate to the repository directory:**
